@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05b14379-8954-4924-acfe-1d4babd00bc6" name="Default Changelist" comment="innit">
+      <change afterPath="$PROJECT_DIR$/Chapter5/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5/src/test/java/com/course/testng/BasicAnnotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Tag Library Descriptor" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="INCOMING_CHECK_STRATEGY" value="Always" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\MavenLocalRepository" />
+        <option name="mavenHome" value="D:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadAnnotationsAutomatically" value="true" />
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="excludeTargetFolder" value="false" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1eABXOjyhsYkwrdNEaK7SijzDPS" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="G:/迅雷下载/测试/测试视频/L055 - 面面俱到的Java接口自动化测试实战（完整版） - 266元/课程代码/1-11章/AutoTest/Chapter5" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.course.testng" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.TimeOutTest.TestFail">
+    <configuration name="C:/Users/Administrator/.ssh/workspace/muke/AutoTest/Chapter5/src/main/resources/MulltiThread.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Chapter5/src/main/resources/MulltiThread.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataProviderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <option name="PACKAGE_NAME" value="com.course.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.DataProviderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiThreadOnAnnotation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <option name="PACKAGE_NAME" value="com.course.testng.MultiThread" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.MultiThread.MultiThreadOnAnnotation" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <option name="PACKAGE_NAME" value="com.course.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.TimeOutTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeOutTest.TestFail" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Chapter5" />
+      <option name="PACKAGE_NAME" value="com.course.testng" />
+      <option name="MAIN_CLASS_NAME" value="com.course.testng.TimeOutTest" />
+      <option name="METHOD_NAME" value="TestFail" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TimeOutTest.TestFail" />
+        <item itemvalue="TestNG.TimeOutTest" />
+        <item itemvalue="TestNG.C:/Users/Administrator/.ssh/workspace/muke/AutoTest/Chapter5/src/main/resources/MulltiThread.xml" />
+        <item itemvalue="TestNG.MultiThreadOnAnnotation" />
+        <item itemvalue="TestNG.DataProviderTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05b14379-8954-4924-acfe-1d4babd00bc6" name="Default Changelist" comment="" />
+      <created>1593754555730</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593754555730</updated>
+      <workItem from="1593754557448" duration="4633000" />
+      <workItem from="1593763114774" duration="824000" />
+      <workItem from="1593765161223" duration="78000" />
+      <workItem from="1593765298689" duration="3045000" />
+      <workItem from="1593768885427" duration="2446000" />
+      <workItem from="1593771464966" duration="16298000" />
+      <workItem from="1593826525836" duration="7214000" />
+      <workItem from="1593861267286" duration="4043000" />
+    </task>
+    <task id="LOCAL-00001" summary="innit">
+      <created>1593760648552</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593760648552</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="innit" />
+    <option name="LAST_COMMIT_MESSAGE" value="innit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="757" y="236" key="#Inspections" timestamp="1593766932934">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="757" y="236" key="#Inspections/0.0.1920.1040@0.0.1920.1040" timestamp="1593766932934" />
+    <state x="440" y="94" key="#Project_Structure" timestamp="1593776598286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1593776598286" />
+    <state x="552" y="292" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593765235096">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="292" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593765235096" />
+    <state x="684" y="481" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593776645828">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="684" y="481" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593776645828" />
+    <state x="847" y="430" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593776639939">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="847" y="430" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1593776639939" />
+    <state x="828" y="383" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593765577113">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="828" y="383" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593765577113" />
+    <state x="750" y="327" key="FileChooserDialogImpl" timestamp="1593861078686">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="750" y="327" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593861078686" />
+    <state width="1249" height="468" key="GridCell.Tab.0.bottom" timestamp="1593871778866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="468" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593871778866" />
+    <state width="1249" height="468" key="GridCell.Tab.0.center" timestamp="1593871778866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="468" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593871778866" />
+    <state width="1249" height="468" key="GridCell.Tab.0.left" timestamp="1593871778866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="468" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593871778866" />
+    <state width="1249" height="468" key="GridCell.Tab.0.right" timestamp="1593871778866">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="468" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593871778866" />
+    <state width="1249" height="344" key="GridCell.Tab.1.bottom" timestamp="1593794085834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593794085834" />
+    <state width="1249" height="344" key="GridCell.Tab.1.center" timestamp="1593794085834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="344" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593794085834" />
+    <state width="1249" height="344" key="GridCell.Tab.1.left" timestamp="1593794085834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="344" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593794085834" />
+    <state width="1249" height="344" key="GridCell.Tab.1.right" timestamp="1593794085834">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1249" height="344" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593794085834" />
+    <state x="753" y="219" key="Maven.ArtifactSearchDialog" timestamp="1593767385414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="753" y="219" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593767385414" />
+    <state x="1107" y="350" key="RollbackChangesDialog" timestamp="1593760233409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1107" y="350" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593760233409" />
+    <state x="476" y="295" width="1252" height="711" key="SettingsEditor" timestamp="1593772443000">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="476" y="295" width="1252" height="711" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593772443000" />
+    <state x="1006" y="382" key="Vcs.Push.Dialog.v2" timestamp="1593760805043">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1006" y="382" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593760805043" />
+    <state x="228" y="207" key="new project wizard" timestamp="1593765352076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="228" y="207" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1593765352076" />
+  </component>
+</project>
