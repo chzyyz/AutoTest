@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="ThreadTestOnXml" parallel="classes" thread-account="2">
+    <test name="demo1">
+        <classes name="testXml">
+            <class name="com.course.testng.MultiThread.MultiThreadOnXml"/>
+            <class name="com.course.testng.BasicAnnotation"/>
+        </classes>
+    </test>
+    <test name="demo2">
+        <classes name="testAnnotation">
+            <class name="com.course.testng.BasicAnnotation"/>
+        </classes>
+    </test>
+
+</suite>
